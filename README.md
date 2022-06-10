@@ -7,14 +7,16 @@ In learning JavaScript, it is essential that you learn about the best JS command
 
 1.document.getElementById()
 <details>
-<summary> 1.document.getElementById()  </summary>
+<summary> see more .. </summary>
 <div>
+::: info
 JavaScript and its many frameworks such as JQuery let you process code based on a particular HTML name or class. While this works, it can slow your script as it must go through the entire script to find the right tag. You can speed up this search through your application’s document object model (DOM) by using element ID.
+:::
 </div>
 </details>
 2.Basic Input / Output :
 <details>
-<summary> Basic Input / Output </summary>
+<summary> see more ..</summary>
 <div>
 Except for the most basic scripts, all applications require some user interaction. With JavaScript, this function comes in the form of the ```alert() and prompt()``` commands. Alert sends info to the user through a dialogue box, while the prompt asks for a response.
 
@@ -28,6 +30,25 @@ stringVar = prompt("message")
 </div>
 </details>
 3.SetTimeout()
+<details>
+<summary> see more .. </summary>
+<div>
+::: info
+The setTimeout function is a native JavaScript function. SetTimeout lets you automatically run commands at a specific time without user input. This simple JS command just requires the command you want to run and when you want to run it. It sets a timer (a countdown set in milliseconds) for the execution of a callback function, calling the function upon completion of the timer.
+
+Syntax
+```js
+setTimeout(command, time);
+```
+You must express the time in milliseconds, but you can use any JavaScript statement as the command. For example, the following code runs the myfunction command after 5 seconds.
+
+Example
+```js
+setTimeout(myfunction, 5000);
+```
+:::
+</div>
+</details>
 4.Setinterval()
 5.ClearTimeout
 6.Var
