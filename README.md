@@ -1,5 +1,7 @@
 # JavaScript-Commands
-<a target="\_blank" href={require('assets/read class 06.txt').default}> Download this docx </a>
+```jsx
+<a target="\_blank" href={require('./assets/docusaurus-asset-example.docx').default}> Download this docx </a>
+````
 <details>
   <summary>Toggle me!</summary>
   <div>
