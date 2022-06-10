@@ -39,7 +39,7 @@ Still, here’s a `list of the most popular commands` that are worth keeping up 
   
 :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down:
   
-1.document.getElementById()
+`1.document.getElementById()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -51,7 +51,7 @@ JavaScript and its many frameworks such as JQuery let you process code based on 
 </details>
 
 
-2.Basic Input / Output :  
+`2.Basic Input / Output :`  
 
 <details>
 <summary> <span style="color: red;">  see more  :small_red_triangle_down:   </span></summary>
@@ -69,7 +69,7 @@ stringVar = prompt("message")
 </details>
 
 
-3.SetTimeout()
+`3.SetTimeout()`
 <details>
 <summary> see more :small_red_triangle_down: </summary>
 <div>
@@ -86,11 +86,11 @@ Example
 ```js
 setTimeout(myfunction, 5000);
 ```
-:::
+
 </div>
 </details>
 
-4.Setinterval()
+`4.Setinterval()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -101,7 +101,7 @@ You can also repeatedly run JavaScript commands using the setinterval command. T
 </div>
 </details>
 
-5.ClearTimeout
+`5.ClearTimeout`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -118,7 +118,7 @@ clearInterval($timer);
 </div>
 </details>
 
-6.Var
+`6.Var`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -129,7 +129,7 @@ Variables are declared in various data types which are the prefixes while writin
 </div>
 </details>
 
-7.Self-calling
+`7.Self-calling`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -144,7 +144,7 @@ Example
 </div>
 </details>
 
-8.Math
+`8.Math`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -153,7 +153,7 @@ The Math.random command generates random numbers. More precisely, it returns a f
 </div>
 </details>
 
-9.Map
+`9.Map`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -165,7 +165,7 @@ The map() command lets you loop through an array or collection. In JavaScript, t
 </div>
 </details>
 
-10.Debounce
+`10.Debounce`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -177,7 +177,7 @@ A debounce function makes sure that your code is only triggered once per user in
 </div>
 </details>
 
-11.Poll
+`11.Poll`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -186,7 +186,7 @@ Many JavaScript commands do not warn the system when they finish running. Someti
 </div>
 </details>
 
-12.Once
+`12.Once`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -195,7 +195,7 @@ Once lets you run a command once and only once during the execution of an applic
 </details>
 
 
-13.GetAbsoluteUrl()
+`13.GetAbsoluteUrl()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -208,7 +208,7 @@ var getAbsoluteUrl = (function() {var a;return function(url) {if(!a) a = documen
 </div>
 </details>
 
-14.String.replace()
+`14.String.replace()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -217,7 +217,7 @@ The replace command lets you change the text in a string. It searches the string
 </div>
 </details>
 
-15.Array.Push()
+`15.Array.Push()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -227,7 +227,7 @@ Push adds items to arrays. The push() method changes the length of the array. Th
 </div>
 </details>
 
-16.Array.filter()
+`16.Array.filter()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -237,7 +237,7 @@ The filter takes items out of an array based on some criteria and then creates a
 </div>
 </details>
 
-17.Array.reduce()
+`17.Array.reduce()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -247,7 +247,7 @@ Reduce is an often-overlooked array command. It converts the items of an array i
 </div>
 </details>
 
-18.String.toLowerCase()
+`18.String.toLowerCase()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -257,7 +257,7 @@ ToLowerCase sounds like what it does. It converts a string to all lower-case let
 </div>
 </details>
 
-19.IsNative()
+`19.IsNative()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -267,7 +267,7 @@ This function indicates if a given browser feature is native to a particular bro
 </div>
 </details>
 
-20.String.substr()
+`20.String.substr()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -278,7 +278,7 @@ Some of these twenty commands are built into the language. Others are useful sni
 </div>
 </details>
 
-21.debug(massage)
+`21.debug(massage)`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -293,7 +293,7 @@ The above command is sending the log message to the console window. This command
 </div>
 </details>
 
-22.string.toLowerCase()
+`22.string.toLowerCase()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -302,7 +302,7 @@ The toLowerCase() function does precisely what you believe it would. It just del
 </div>
 </details>
 
-23.Function Return
+`23.Function Return`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -320,7 +320,7 @@ The output of the above function is 24
 </div>
 </details>
 
-24.floor()
+`24.floor()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -329,12 +329,12 @@ The floor is one of the most important javascript methods. The floor() method sp
 
 Example
 ```js
-Math.floor(1.6);
+`Math.floor(1.6);`
 ```
 </div>
 </details>
 
-25.For loop
+`25.For loop`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -354,7 +354,7 @@ The for the loop needs the three sections. The first one is Initializer which in
 </div>
 </details>
 
-26.The If-Else
+`26.The If-Else`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -372,7 +372,7 @@ The above example shows that the conditional command is used to determine the co
 </div>
 </details>
 
-27.constructor()
+`27.constructor()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -385,7 +385,7 @@ constructor([arguments]) { ... }
 </div>
 </details>
 
-28.Math Object
+`28.Math Object`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -398,7 +398,7 @@ Math.sqrt(25);
 </div>
 </details>
 
-29.JS Date
+`29.JS Date`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -411,7 +411,7 @@ var a = new Date();
 </div>
 </details>
 
-30.Error Object
+`30.Error Object`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -430,7 +430,7 @@ catch(err) {
 </div>
 </details>
 
-31.toExponential()
+`31.toExponential()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -444,7 +444,7 @@ y.toExponential(2);   will return 9.66e+0
 </div>
 </details>
 
-32.toFixed()
+`32.toFixed()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -459,7 +459,7 @@ y.toFixed(6); will return 9.656000
 </div>
 </details>
 
-33.toPrecision()
+`33.toPrecision()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -473,7 +473,7 @@ y.toPrecision(2) will return 9.7
 </div>
 </details>
 
-34.valueOf()
+`34.valueOf()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -490,7 +490,7 @@ y (123).valueOf(); will returns 125 from literal 125
 </div>
 </details>
 
-35.parseInt()
+`35.parseInt()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -504,7 +504,7 @@ parseInt("20");  will return 20
 </div>
 </details>
 
-36.normalize()
+`36.normalize()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -524,7 +524,7 @@ b= a.normalize('NFC')
 </div>
 </details>
 
-37.slice(start,end)
+`37.slice(start,end)`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -546,7 +546,7 @@ Output
 </div>
 </details>
 
-38.Epsilon
+`38.Epsilon`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -563,7 +563,7 @@ Output: 2.220446049250313e-16
 </div>
 </details>
 
-39.toJSON()
+`39.toJSON()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -573,7 +573,7 @@ The JSON is a JavaScript Object Notation. This function is a common setup to exp
 </details>
 
 
-40.toISOString()
+`40.toISOString()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -591,7 +591,7 @@ document.write("Current Date: "+dateObj.toISOString());
 </div>
 </details>
 
-41.Proxy()
+`41.Proxy()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -604,7 +604,7 @@ const proxyUser = new Proxy(user, handler);
 </div>
 </details>
 
-42.Promise
+`42.Promise`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -620,7 +620,7 @@ console.log('Life is Beautiful');
 </div>
 </details>
 
-43.Mixins
+`43.Mixins`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -635,7 +635,7 @@ console.log(`Hi ${this.name}`);
 </div>
 </details>
 
-44.Autocorrection
+`44.Autocorrection`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -651,7 +651,7 @@ date.setDate(date.getDate() + 2);
 </div>
 </details>
 
-45.unescape()
+`45.unescape()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -665,7 +665,7 @@ unescape('xyz123');
 </div>
 </details>
 
-46.Generate an array of numbers
+`46.Generate an array of numbers`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -679,7 +679,7 @@ for( var a=1; numbersArray.push(i++) < max;); // numbers = [1,2,3 ... 500]
 </div>
 </details>
 
-47.Verify
+`47.Verify`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -694,7 +694,7 @@ return !isNaN(parseFloat(a)) && isFinite(a);
 </div>
 </details>
 
-48.Create a Cookie
+`48.Create a Cookie`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -710,7 +710,7 @@ Here expires is an alternative. If users give this attribute with a confirmed da
 </div>
 </details>
 
-49.Shift()
+`49.Shift()`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
@@ -719,7 +719,7 @@ The shift() method is related to the pop() method but the exception is that the 
 </div>
 </details>
 
-50.Bonus query – NEGATIVE_INFINITY
+`50.Bonus query – NEGATIVE_INFINITY`
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
