@@ -1,4 +1,35 @@
 # JavaScript-Commands
+<Tabs>
+  <TabItem value="apple" label="Apple" default>
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana">
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
+<Tabs className="unique-tabs">
+  <TabItem value="Apple">This is an apple 🍎</TabItem>
+  <TabItem value="Orange">This is an orange 🍊</TabItem>
+  <TabItem value="Banana">This is a banana 🍌</TabItem>
+</Tabs>
+<details>
+  <summary>Toggle me!</summary>
+  <div>
+    <div>This is the detailed content</div>
+    <br/>
+    <details>
+      <summary>
+        Nested toggle! Some surprise inside...
+      </summary>
+      <div>
+        😲😲😲😲😲
+      </div>
+    </details>
+  </div>
+</details>
 
 LIST OF 50 JAVASCRIPT COMMANDS 
 As the most common programming language, it is imperative that programmers and developers understand JavaScript code and JS commands. Developers with mastery over JavaScript code are the most valuable to employers. If you are new to web development and programming language, you will want to familiarize yourself with the JavaScript commands list.
