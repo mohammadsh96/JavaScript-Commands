@@ -1,29 +1,4 @@
 # JavaScript-Commands
-```jsx
-<a target="\_blank" href={require('./assets/docusaurus-asset-example.docx').default}> Download this docx </a>
-````
-<details>
-  <summary>Toggle me!</summary>
-  <div>
-    <div>This is the detailed content</div>
-    <br/>
-    <details>
-      <summary>
-        Nested toggle! Some surprise inside...
-      </summary>
-      <div>
-        😲😲😲😲😲
-      </div>
-    </details>
-  </div>
-</details>
-
-<details>
-<summary> 1.document.getElementById()  </summary>
-<div>
-JavaScript and its many frameworks such as JQuery let you process code based on a particular HTML name or class. While this works, it can slow your script as it must go through the entire script to find the right tag. You can speed up this search through your application’s document object model (DOM) by using element ID.
-</div>
-</details>
 
 LIST OF 50 JAVASCRIPT COMMANDS 
 As the most common programming language, it is imperative that programmers and developers understand JavaScript code and JS commands. Developers with mastery over JavaScript code are the most valuable to employers. If you are new to web development and programming language, you will want to familiarize yourself with the JavaScript commands list.
@@ -31,7 +6,27 @@ As the most common programming language, it is imperative that programmers and d
 In learning JavaScript, it is essential that you learn about the best JS commands because this will allow you to craft JavaScript code with more precision. Here, you will find a detailed JavaScript developer tutorial with everything you need to know about the top 20 in the JavaScript list of commands.
 
 1.document.getElementById()
-2.Basic Input / Output
+<details>
+<summary> 1.document.getElementById()  </summary>
+<div>
+JavaScript and its many frameworks such as JQuery let you process code based on a particular HTML name or class. While this works, it can slow your script as it must go through the entire script to find the right tag. You can speed up this search through your application’s document object model (DOM) by using element ID.
+</div>
+</details>
+2.Basic Input / Output :
+<details>
+<summary> Basic Input / Output </summary>
+<div>
+Except for the most basic scripts, all applications require some user interaction. With JavaScript, this function comes in the form of the ```alert() and prompt()``` commands. Alert sends info to the user through a dialogue box, while the prompt asks for a response.
+
+Syntax : 
+
+```js
+alert("message");
+
+stringVar = prompt("message")
+```
+</div>
+</details>
 3.SetTimeout()
 4.Setinterval()
 5.ClearTimeout
@@ -114,10 +109,10 @@ Because of this, it might be wise to develop a JavaScript cheat sheet for yourse
 
 Still, here’s a list of the most popular commands that are worth keeping up your sleeve:
 
-1. <document.getElementById()>
+1. document.getElementById():
 JavaScript and its many frameworks such as JQuery let you process code based on a particular HTML name or class. While this works, it can slow your script as it must go through the entire script to find the right tag. You can speed up this search through your application’s document object model (DOM) by using element ID.
 
-2. <Basic Input / Output>
+2. Basic Input / Output :
 Except for the most basic scripts, all applications require some user interaction. With JavaScript, this function comes in the form of the ```alert() and prompt()``` commands. Alert sends info to the user through a dialogue box, while the prompt asks for a response.
 
 Syntax
