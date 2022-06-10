@@ -18,17 +18,16 @@ The Number() function returns the solution to an equation. The Number() function
 The String() function of JavaScript code returns a value containing alphabetic characters. For example, a line of code that reads String a=new String(“There are three primitive data types”); will print the phrase There are only three primitive data types. The character, a, is a reference variable. The words in parentheses are known as the object. It is important to remember that you cannot make changes to a String() method after it is created.
 
 #### Boolean:
+The Boolean() function converts an object into one of two responses. A Boolean returns a value of either true or false. The instances in which a Boolean object has a value of false are…
 
-The Boolean() function converts an object into one of two responses. A Boolean returns a value of either <true> or <false>. The instances in which a Boolean object has a <value> of <false> are…
-
-when the value parameter is <null>
-when the value parameter is <undefined>
+when the value parameter is null
+when the value parameter is undefined
 when the value parameter is 0
 when the value parameter is -0
-when the value parameter is <not included>
-when the string is <empty>
+when the value parameter is not included
+when the string is empty
 
-Importance of <Semicolons>
+Importance of Semicolons
 
 When working with JS code, it is important that you properly execute line termination. The best practice for terminating a line of code is to place a semicolon at the end, though if you forget, JavaScript software will insert one on your behalf. In the case of JavaScript malfunctions, you could end up with a line of code that has not been properly terminated. This is a rarity. However, it could happen and potentially cause an error in your JavaScript coding. Manually inserting semicolons should be a habit that you adopt, even with JavaScript’s automatic insertion of semicolons. Semicolons make JS code easily readable by everyone.
 
