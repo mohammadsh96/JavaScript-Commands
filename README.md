@@ -1,17 +1,18 @@
 # JavaScript-Commands
-
+::: info
 LIST OF 50 JAVASCRIPT COMMANDS 
 As the most common programming language, it is imperative that programmers and developers understand JavaScript code and JS commands. Developers with mastery over JavaScript code are the most valuable to employers. If you are new to web development and programming language, you will want to familiarize yourself with the JavaScript commands list.
+:::
 
 In learning JavaScript, it is essential that you learn about the best JS commands because this will allow you to craft JavaScript code with more precision. Here, you will find a detailed JavaScript developer tutorial with everything you need to know about the top 20 in the JavaScript list of commands.
 
 1.document.getElementById()
 <details>
-<summary> see more .. </summary>
+<summary style ="font-color : red "> see more .. </summary>
 <div>
-::: info
+
 JavaScript and its many frameworks such as JQuery let you process code based on a particular HTML name or class. While this works, it can slow your script as it must go through the entire script to find the right tag. You can speed up this search through your application’s document object model (DOM) by using element ID.
-:::
+
 </div>
 </details>
 2.Basic Input / Output :
