@@ -19,7 +19,7 @@ JavaScript and its many frameworks such as JQuery let you process code based on 
 </details>
 2.Basic Input / Output :
 <details>
-<summary> see more ..</summary>
+<summary>:small_red_triangle_down: <span style="color: red;">  see more</span></summary>
 <div>
 Except for the most basic scripts, all applications require some user interaction. With JavaScript, this function comes in the form of the ```alert() and prompt()``` commands. Alert sends info to the user through a dialogue box, while the prompt asks for a response.
 
