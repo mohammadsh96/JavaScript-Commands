@@ -37,7 +37,9 @@ Just about every webpage, mobile app, and web application use some JavaScript. T
 Because of this, it might be wise to develop a JavaScript cheat sheet for yourself. You would then have a list of useful commands you can reference when you need help completing a project. With the flexibility of the language, you will never find a definitive list of the best JavaScript keywords. Every programmer is different and your particular needs can vary wildly from everyone else.
 
 Still, here’s a list of the most popular commands that are worth keeping up your sleeve:
+  
 :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down:
+  
 1.document.getElementById()
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
