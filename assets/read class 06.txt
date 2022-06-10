@@ -1,0 +1,15 @@
+Authentication can be defined by connecting to a system and providing credentials 
+in order to gain access to the system.
+ Nessus scans systems by using different network protocols (SSH, SMB, HTTPS, SNMP, etc.) 
+in order to gain access to the remote target asset.
+ For example, logging in to a remote host via SSH using a username and password is a method of authentication.
+ Each remote asset can authenticate using several protocols. 
+Assets with more than one authenticatable protocol, 
+for example Windows server running a SQL server, could report both authentication success and failure.
+  Understanding this fact during analysis is key to understanding is the system was successfully scanned or not.
+  While in many cases the successful authentication of an asset may seem binary,
+ there are many examples of successfully scanned systems with authentication failures.
+  The system administrator should review all the failures
+ and understand the services which are enabled on the asset for a complete analysis.
+
+https://mohammadsh96.github.io/reading-notes/Authentication.html

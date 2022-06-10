@@ -1,5 +1,5 @@
 # JavaScript-Commands
-
+<a target="\_blank" href={require('assets/read class 06.txt').default}> Download this docx </a>
 <details>
   <summary>Toggle me!</summary>
   <div>
