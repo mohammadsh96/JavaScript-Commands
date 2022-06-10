@@ -18,14 +18,14 @@ The Number() function returns the solution to an equation. The Number() function
 The String() function of JavaScript code returns a value containing alphabetic characters. For example, a line of code that reads String a=new String(“There are three primitive data types”); will print the phrase There are only three primitive data types. The character, a, is a reference variable. The words in parentheses are known as the object. It is important to remember that you cannot make changes to a String() method after it is created.
 
 #### Boolean:
-The Boolean() function converts an object into one of two responses. A Boolean returns a value of either true or false. The instances in which a Boolean object has a value of false are…
+The Boolean() function converts an object into one of two responses. A Boolean returns a value of either `true` or `false` . The instances in which a Boolean object has a value of `false` are…
 
-when the value parameter is null
-when the value parameter is undefined
-when the value parameter is 0
-when the value parameter is -0
-when the value parameter is not included
-when the string is empty
+when the value parameter is `null`
+when the value parameter is `undefined`
+when the value parameter is ` 0`
+when the value parameter is `-0`
+when the value parameter is ` not included`
+when the string is `empty`
 
 Importance of Semicolons
 
@@ -35,7 +35,7 @@ Just about every webpage, mobile app, and web application use some JavaScript. T
 
 Because of this, it might be wise to develop a JavaScript cheat sheet for yourself. You would then have a list of useful commands you can reference when you need help completing a project. With the flexibility of the language, you will never find a definitive list of the best JavaScript keywords. Every programmer is different and your particular needs can vary wildly from everyone else.
 
-Still, here’s a list of the most popular commands that are worth keeping up your sleeve:
+Still, here’s a `list of the most popular commands` that are worth keeping up your sleeve:
   
 :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down:
   
