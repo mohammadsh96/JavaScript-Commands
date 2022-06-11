@@ -40,6 +40,7 @@ Still, here’s a `list of the most popular commands` that are worth keeping up 
 :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down: :small_red_triangle_down:
   
 `1.document.getElementById()`
+:small_red_triangle_down:
 <details>
 <summary style ="font-color : red ">  see more   :small_red_triangle_down:  </summary>
 <div>
